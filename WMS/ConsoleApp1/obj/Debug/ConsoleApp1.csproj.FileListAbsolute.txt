@@ -1,0 +1,13 @@
+D:\sarsu\se\WMS\ConsoleApp1\bin\Debug\chromedriver.exe
+D:\sarsu\se\WMS\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\sarsu\se\WMS\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\sarsu\se\WMS\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\sarsu\se\WMS\ConsoleApp1\bin\Debug\WebDriver.dll
+D:\sarsu\se\WMS\ConsoleApp1\bin\Debug\WMS.Automation.dll
+D:\sarsu\se\WMS\ConsoleApp1\bin\Debug\WMS.Automation.pdb
+D:\sarsu\se\WMS\ConsoleApp1\bin\Debug\WebDriver.xml
+D:\sarsu\se\WMS\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+D:\sarsu\se\WMS\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\sarsu\se\WMS\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\sarsu\se\WMS\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\sarsu\se\WMS\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete

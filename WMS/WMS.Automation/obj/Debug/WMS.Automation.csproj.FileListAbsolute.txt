@@ -1,0 +1,9 @@
+D:\sarsu\se\WMS\WMS.Automation\bin\Debug\WMS.Automation.dll
+D:\sarsu\se\WMS\WMS.Automation\bin\Debug\WMS.Automation.pdb
+D:\sarsu\se\WMS\WMS.Automation\bin\Debug\WebDriver.dll
+D:\sarsu\se\WMS\WMS.Automation\bin\Debug\WebDriver.xml
+D:\sarsu\se\WMS\WMS.Automation\obj\Debug\WMS.Automation.csprojResolveAssemblyReference.cache
+D:\sarsu\se\WMS\WMS.Automation\obj\Debug\WMS.Automation.csproj.CoreCompileInputs.cache
+D:\sarsu\se\WMS\WMS.Automation\obj\Debug\WMS.Automation.dll
+D:\sarsu\se\WMS\WMS.Automation\obj\Debug\WMS.Automation.pdb
+D:\sarsu\se\WMS\WMS.Automation\obj\Debug\WMS.Automation.csproj.CopyComplete
